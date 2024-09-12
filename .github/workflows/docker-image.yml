@@ -17,5 +17,4 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag muhammadabdullah0/calculatorapp:latest
 
-    - name: Add CalculatorApp to Docker Hub
-      run: docker push muhammadabdullah0/calculatorapp:latest
+   
