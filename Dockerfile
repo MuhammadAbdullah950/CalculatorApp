@@ -1,4 +1,4 @@
-# pull python3 docker image form docker hun
+# pull python3 docker    ds image form docker hun
 FROM python:3.10-slim  
 
 # in Container creating an folder
