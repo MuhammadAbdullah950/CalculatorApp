@@ -4,7 +4,7 @@ FROM python:3.10-slim
 # in Container creating an folder
 RUN mkdir /app
 
-# set the working directory , by default open folder
+# set the  working directory , by default open folder
 WORKDIR /app
 
 # copy the dependinces file to working directory
